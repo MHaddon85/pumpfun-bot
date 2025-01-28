@@ -1,0 +1,6 @@
+class Config:
+    PUMPFUN_API_KEY = "7845342999:AAEo8KGQAporoXCiiarTqbrc2I8jZBAwvNQ"
+    TWEETSCOUT_API_KEY = "a9898906-b7d1-4695-991f-cd1bfb7a971c"
+    TELEGRAM_TOKEN = "your_bot_token"
+    BONKBOT_API_KEY = "2UjE9JfYquaT5sH9Z4EdcVekUymTvN5kpqDNcWZsRkGARo7c6FztKjJCWrM5N2udqyTdBHnGb4uVjiAK8wHhPBhY"
+    TELEGRAM_CHAT_ID = "@HaddPumpBot"
